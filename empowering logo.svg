@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 710.98 29.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f29523;
+      }
+
+      .cls-2 {
+        font-family: Nunito-Black, Nunito;
+        font-weight: 800;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 30.3px;
+      }
+
+      .cls-4 {
+        fill: #f08e22;
+      }
+
+      .cls-5 {
+        fill: #2babdf;
+      }
+
+      .cls-3 {
+        font-family: Inter18pt-Medium, 'Inter 18pt';
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(0 26.18)"><tspan class="cls-5" x="0" y="0">EM</tspan><tspan class="cls-4" x="40.55" y="0">POWERING</tspan></text>
+  <text class="cls-3" transform="translate(203.1 26.18)"><tspan class="cls-5" x="0" y="0">DISADVANTAGED </tspan><tspan class="cls-1" x="267.05" y="0">YOUNG ADULTS</tspan><tspan class="cls-5" x="508.17" y="0"> </tspan></text>
+</svg>
